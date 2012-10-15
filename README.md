@@ -17,7 +17,7 @@ Requirements
 ------------
 - .NET 4.0
 
-It can get by with .NET 2.0, but I deployed with 4.0 to make it work out of the box on Windows 8, which comes with 4.0 pre-installed, but 2.0 and 3.0 require an additional download.
+It can get by with .NET 2.0, but I deployed with 4.0 to make it work out of the box on Windows 8. Windows 8 comes with 4.0 pre-installed, but 2.0 and 3.0 require an additional download.
 
 License
 -------
