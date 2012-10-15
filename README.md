@@ -12,3 +12,13 @@ Screenshots
 ![](http://img841.imageshack.us/img841/3391/imagetm.png)
 
 ![](http://img854.imageshack.us/img854/9411/imageol.png)
+
+Requirements
+------------
+- .NET 4.0
+
+It can get by with .NET 2.0, but I deployed with 4.0 to make it work out of the box on Windows 8, which comes with 4.0 pre-installed, but 2.0 and 3.0 require an additional download.
+
+License
+-------
+- [MIT License](http://opensource.org/licenses/mit-license.php)
