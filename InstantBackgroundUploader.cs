@@ -10,7 +10,7 @@ namespace InstantBackgroundUploader
 	class UploaderApplicationContext : ApplicationContext
 	{
 		public const bool releaseMode = false;
-		public const string version = "v0.032";
+		public const string version = "v0.033";
 
 		private System.ComponentModel.IContainer components = null;
 		private System.Windows.Forms.NotifyIcon notifyIcon;
@@ -375,7 +375,7 @@ namespace InstantBackgroundUploader
 
 					if (!performedUpdate && releaseMode) try {
 						webClient.DownloadFileCompleted += new System.ComponentModel.AsyncCompletedEventHandler(webClient_DownloadFileCompleted);
-						webClient.DownloadFileAsync(new Uri("http://www.cse.yorku.ca/~shuryork/InstantBackgroundUploader.exe"), Path.Combine(Path.GetTempPath(), "InstantBackgroundUploader.exe.update"));
+						webClient.DownloadFileAsync(new Uri("https://github.com/downloads/shurcooL/InstantBackgroundUploader_Windows/InstantBackgroundUploader.exe"), Path.Combine(Path.GetTempPath(), "InstantBackgroundUploader.exe.update"));
 					} catch (Exception) {}
 				}
 			}
