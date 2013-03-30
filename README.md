@@ -9,9 +9,9 @@ Downloads
 
 Screenshots
 -----------
-![](http://img841.imageshack.us/img841/3391/imagetm.png)
+![](https://dl.dropbox.com/u/8554242/dmitri/projects/InstantBackgroundUploader_Windows/images/InstantBackgroundUploader1.png)
 
-![](http://img854.imageshack.us/img854/9411/imageol.png)
+![](https://dl.dropbox.com/u/8554242/dmitri/projects/InstantBackgroundUploader_Windows/images/InstantBackgroundUploader2.png)
 
 Requirements
 ------------
